@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <booklibrary>Peer Reviews</booklibrary>
+        <mainbooktitle>Peer Evaluation of VT Recreational Sports</mainbooktitle>
+    </booktitle>
+    <bookmeta>
+     <author>Stephanie Kapllani, Saige McGovern, Owen Forrester, Nicole Kurka</author>
+    </bookmeta>
+    <frontmatter>
+      <preface href="introduction.dita"/>
+    </frontmatter>
+        <chapter href="summary.dita"/>
+    <chapter href="contentquality.dita"/>
+    <chapter href="usability.dita"/>
+    <chapter href="conclusion.dita"/>
+        </bookmap>
