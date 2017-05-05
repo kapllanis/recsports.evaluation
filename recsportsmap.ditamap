@@ -12,7 +12,7 @@
       <preface href="introduction.dita"/>
     </frontmatter>
         <chapter href="summary.dita"/>
-    <chapter href="contentquality.dita"/>
     <chapter href="usability.dita"/>
+    <chapter href="contentquality.dita"/>
     <chapter href="conclusion.dita"/>
         </bookmap>
